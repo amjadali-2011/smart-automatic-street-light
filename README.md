@@ -1,6 +1,4 @@
-# ALVEMIO Smart Automatic Street Light
-
-**Imagine. Build. Innovate.**
+# Smart Automatic Street Light
 
 A beginner-friendly electronics project that demonstrates how an automatic street light can switch on in darkness and switch off in bright light. The project is designed for learning basic electronics, light sensing, transistor switching, and introductory Arduino control.
 
@@ -95,6 +93,4 @@ Suggestions, corrections, circuit improvements, and verified test results are we
 
 ## About
 
-Created as a beginner-friendly electronics project by **ALVEMIO Technologies**.
-
-**Tagline:** Imagine. Build. Innovate.
+An educational electronics project for exploring automatic light control.
