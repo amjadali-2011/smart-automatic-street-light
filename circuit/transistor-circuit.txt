@@ -1,0 +1,18 @@
+ALVEMIO Technologies — Smart Automatic Street Light
+Transistor-only low-voltage demonstration circuit
+
++5V
+ |
+ +----[10kΩ]----o SENSOR NODE ----[4.7kΩ]---- Base (NPN)
+                |                               Emitter ---- GND
+               [LDR]                            Collector
+                |                                  |
+               GND                             LED cathode
+                                                  LED
++5V ----[330Ω]------------------------------- LED anode
+
+Supply negative = common GND.
+
+For a 9V supply, use about 1kΩ as the LED series resistor.
+Check the exact NPN transistor datasheet for pinout before wiring.
+Use low-voltage DC only. Never connect this project to household mains.
